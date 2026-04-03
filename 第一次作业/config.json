@@ -1,0 +1,11 @@
+{
+    "algorithm": "ALL",
+    "is_directed": true,
+    "use_random_graph": false,
+    "use_seed": true,
+    "random_seed": 42,
+    "node_count": 10,
+    "input_file": "graph_data.txt",
+    "start_node": 0,
+    "goal_node": 9
+}

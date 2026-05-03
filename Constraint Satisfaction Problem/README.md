@@ -1,6 +1,5 @@
 # Assignment 2
 
----
 
 ## Task 1 α-β Pruning
 

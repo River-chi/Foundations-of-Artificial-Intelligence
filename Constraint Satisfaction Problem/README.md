@@ -1,7 +1,5 @@
 # Assignment 2
 
-**Student**: Haoyang Chi  **ID**: 202410772  **Class**: CS_3
-
 ---
 
 ## Task 1 α-β Pruning

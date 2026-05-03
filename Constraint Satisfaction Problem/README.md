@@ -88,15 +88,15 @@ Homework2/
 
 ## Running
 
-```sh
+```bash
 # Task 1
-python code/alpha_beta/src/main.py
+python alpha_beta/src/main.py
 
 # Task 2
 pip install pyvis
 python code/map_coloring/src/main.py
 
 #Task 3
-python code/balanced_centers/src/main.py
+python balanced_centers/src/main.py
 ```
 
